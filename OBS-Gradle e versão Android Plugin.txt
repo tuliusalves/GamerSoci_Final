@@ -1,0 +1,2 @@
+Gradle:4.1
+Android Plugin Version: 3.0.1
