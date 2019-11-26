@@ -58,9 +58,9 @@ public class MainActivity extends AppCompatActivity {
 
         /**faz configurações iniciais do Bottom Navigation*/
         bottomNavigationViewEx.enableAnimation(true);
-        bottomNavigationViewEx.enableItemShiftingMode(false);
+        bottomNavigationViewEx.enableItemShiftingMode(true);
         bottomNavigationViewEx.enableShiftingMode(false);
-        bottomNavigationViewEx.setTextVisibility(false);
+        bottomNavigationViewEx.setTextVisibility(true);
 
 
         /**Habilitar navegação*/

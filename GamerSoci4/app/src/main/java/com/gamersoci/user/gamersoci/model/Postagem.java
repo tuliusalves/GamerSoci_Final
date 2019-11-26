@@ -71,12 +71,10 @@ public class Postagem implements Serializable {
 
             String idsAtualizacao = "/" + idSeguidor + "/" + getId();
             objeto.put("/feed" + idsAtualizacao, dadosSeguidor );
-
         }
 
         firebaseRef.updateChildren( objeto );
         return true;
-
     }
 
     public String getId() {

@@ -12,7 +12,113 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0aefae7-ec41-414f-95e7-35f0f99c6d9f" name="Default" comment="" />
+    <list default="true" id="d0aefae7-ec41-414f-95e7-35f0f99c6d9f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Documentação/GamerSoci.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/avatar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/comentario.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/google-services.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/proguard-rules.pro" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/gamersoci/user/gamersoci/ExampleInstrumentedTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/activity/CadastroActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/activity/ComentariosActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/activity/EditarPerfilActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/activity/FiltroActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/activity/LoginActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/activity/MainActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/activity/PerfilAmigoActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/activity/VisualizarPostagemActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/adapter/AdapterComentario.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/adapter/AdapterFeed.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/adapter/AdapterGrid.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/adapter/AdapterMiniaturas.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/adapter/AdapterPesquisa.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/fragment/FeedFragment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/fragment/PerfilFragment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/fragment/PesquisaFragment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/fragment/PostagemFragment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/helper/ConfiguracaoFirebase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/helper/Permissao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/helper/RecyclerItemClickListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/helper/SquareImageView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/model/Comentario.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/model/Feed.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/model/Postagem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/model/PostagemCurtida.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/model/Usuario.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/model/UsuarioFirebase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/background_botao.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/background_botao_perfil.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/background_caixa_comentario.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/background_caixa_texto.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/background_degrade.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_close_black_24dp.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_email_black_24dp.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_enviar_preto_24dp.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_favorite_black_24dp.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_home_preto_24dp.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_perfil_preto_24dp.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_pesquisa_preto_24dp.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_postagem_preto_24dp.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_cadastro.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_comentarios.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_editar_perfil.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_filtro.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_perfil_amigo.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_visualizar_postagem.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/adapter_comentario.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/adapter_feed.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/adapter_filtros.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/adapter_pesquisa_usuario.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/bottom_navigation.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/carregamento.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/divisor.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_feed.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_perfil.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_pesquisa.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_postagem.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/grid_postagem.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/toolbar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/visualizar_postagem_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/menu/menu_bottom_navigation.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/menu/menu_filtro.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/menu/menu_main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/test/java/com/gamersoci/user/gamersoci/ExampleUnitTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/settings.gradle" />
+    </list>
     <ignored path="$PROJECT_DIR$/build/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -126,21 +232,52 @@
       <file leaf-file-name="AdapterFeed.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/adapter/AdapterFeed.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="920">
-              <caret line="73" column="19" lean-forward="false" selection-start-line="73" selection-start-column="19" selection-end-line="73" selection-end-column="19" />
+            <state relative-caret-position="160">
+              <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
               <folding>
-                <element signature="e#2471#2763#0" expanded="true" />
-                <element signature="e#2762#2763#0" expanded="true" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#5093#5094#0" expanded="false" />
+                <element signature="e#5132#5133#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FeedFragment.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FeedFragment.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/fragment/FeedFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1140">
-              <caret line="77" column="13" lean-forward="true" selection-start-line="77" selection-start-column="13" selection-end-line="77" selection-end-column="13" />
+            <state relative-caret-position="1180">
+              <caret line="79" column="21" lean-forward="false" selection-start-line="79" selection-start-column="21" selection-end-line="79" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Postagem.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/model/Postagem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1600">
+              <caret line="94" column="0" lean-forward="false" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/activity/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="172">
+              <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Feed.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/model/Feed.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -168,7 +305,11 @@
       <find>cur</find>
       <find>segui</find>
       <find>int</find>
+      <find>carrega</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -1917,7 +2058,6 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/grid_postagem.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/carregamento.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/model/Feed.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/fragment/FeedFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/model/PostagemCurtida.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/drawable/background_caixa_comentario.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/model/Comentario.java" />
@@ -1930,7 +2070,6 @@
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/activity/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/activity/PerfilAmigoActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/activity/LoginActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/activity/FiltroActivity.java" />
@@ -1953,10 +2092,12 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_filtro.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_comentarios.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_perfil.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/model/Postagem.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/activity/EditarPerfilActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/fragment/PerfilFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/activity/CadastroActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/fragment/FeedFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/model/Postagem.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/activity/MainActivity.java" />
       </list>
     </option>
   </component>
@@ -1964,6 +2105,7 @@
     <option name="width" value="1024" />
     <option name="height" value="732" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="AndroidView" proportions="" version="1">
       <flattenPackages />
@@ -1979,7 +2121,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -2045,6 +2187,10 @@
               <option name="myItemId" value="gamersoci" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -2063,10 +2209,6 @@
               <option name="myItemId" value="gamersoci" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="adapter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -2077,25 +2219,21 @@
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="manifests" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidManifestsGroupNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="feed&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/res/layout/adapter_feed.xml&#10;postagem&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/res/layout/visualizar_postagem_2.xml&#10;cadastro&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/java/com/gamersoci/user/gamersoci/activity/CadastroActivity.java&#10;perfil&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/java/com/gamersoci/user/gamersoci/fragment/PerfilFragment.java&#10;ada&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/java/com/gamersoci/user/gamersoci/adapter/AdapterFeed.java&#10;coment&#9;PSI&#9;JAVA://com.gamersoci.user.gamersoci.model.Comentario&#10;comenta&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/res/layout/activity_comentarios.xml&#10;filtro&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/res/layout/activity_filtro.xml&#10;fragment perfil&#9;PSI&#9;JAVA://com.gamersoci.user.gamersoci.R.layout#fragment_perfil&#10;bot&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/res/menu/menu_bottom_navigation.xml&#10;menu&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/res/menu/menu_bottom_navigation.xml&#10;toolb&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/res/layout/toolbar.xml&#10;login&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/res/layout/activity_login.xml&#10;fragment&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/res/layout/fragment_feed.xml&#10;visu&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/res/layout/activity_visualizar_postagem.xml&#10;visua&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/res/layout/activity_visualizar_postagem.xml&#10;adapter&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/res/layout/adapter_feed.xml&#10;pos&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/java/com/gamersoci/user/gamersoci/model/Postagem.java&#10;main&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/java/com/gamersoci/user/gamersoci/activity/MainActivity.java&#10;toolbar&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/res/layout/toolbar.xml&#10;background_de&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/res/drawable/background_degrade.xml&#10;usuario&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/java/com/gamersoci/user/gamersoci/model/Usuario.java&#10;comentarioac&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/java/com/gamersoci/user/gamersoci/activity/ComentariosActivity.java&#10;adaptercom&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/java/com/gamersoci/user/gamersoci/adapter/AdapterComentario.java&#10;pesquisau&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/res/layout/adapter_pesquisa_usuario.xml&#10;comentario&#9;PSI&#9;JAVA://com.gamersoci.user.gamersoci.activity.ComentariosActivity&#10;fragment_fee&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/res/layout/fragment_feed.xml&#10;visuali&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/res/layout/activity_visualizar_postagem.xml&#10;activityf&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/res/layout/activity_filtro.xml&#10;posta&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/java/com/gamersoci/user/gamersoci/model/Postagem.java&#10;square&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/java/com/gamersoci/user/gamersoci/helper/SquareImageView.java&#10;grid_&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/res/layout/grid_postagem.xml&#10;mani&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/AndroidManifest.xml&#10;adapterpes&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/java/com/gamersoci/user/gamersoci/adapter/AdapterPesquisa.java&#10;perfilami&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/java/com/gamersoci/user/gamersoci/activity/PerfilAmigoActivity.java&#10;activityp&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/res/layout/activity_perfil_amigo.xml&#10;fragmentper&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/res/layout/fragment_perfil.xml&#10;frag&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/res/layout/fragment_perfil.xml&#10;filtroa&#9;PSI&#9;JAVA://com.gamersoci.user.gamersoci.activity.FiltroActivity&#10;ac&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/res/layout/activity_filtro.xml&#10;editar&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/java/com/gamersoci/user/gamersoci/activity/EditarPerfilActivity.java&#10;ed&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/java/com/gamersoci/user/gamersoci/activity/EditarPerfilActivity.java&#10;fragmentpos&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/res/layout/fragment_postagem.xml&#10;pesq&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/java/com/gamersoci/user/gamersoci/fragment/PesquisaFragment.java&#10;pesqui&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/java/com/gamersoci/user/gamersoci/fragment/PesquisaFragment.java&#10;fra&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/res/layout/fragment_perfil.xml&#10;perfilfra&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/java/com/gamersoci/user/gamersoci/fragment/PerfilFragment.java&#10;acti&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/res/layout/activity_perfil_amigo.xml&#10;recycleritem&#9;FILE&#9;file:///home/user/Android/Sdk/sources/android-26/com/android/setupwizardlib/items/RecyclerItemAdapter.java&#10;pesquisa&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/java/com/gamersoci/user/gamersoci/fragment/PesquisaFragment.java" />
-    <property name="android.project.structure.last.selected" value="app" />
+    <property name="SearchEverywhereHistoryKey" value="postage&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/java/com/gamersoci/user/gamersoci/model/Postagem.java&#10;postagem&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/java/com/gamersoci/user/gamersoci/activity/VisualizarPostagemActivity.java&#10;main&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/java/com/gamersoci/user/gamersoci/activity/MainActivity.java&#10;posta&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/java/com/gamersoci/user/gamersoci/model/Postagem.java&#10;feed&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/java/com/gamersoci/user/gamersoci/fragment/FeedFragment.java&#10;perf&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/java/com/gamersoci/user/gamersoci/fragment/PerfilFragment.java&#10;usuar&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/java/com/gamersoci/user/gamersoci/model/UsuarioFirebase.java&#10;cadastro&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/java/com/gamersoci/user/gamersoci/activity/CadastroActivity.java&#10;perfil&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/java/com/gamersoci/user/gamersoci/fragment/PerfilFragment.java&#10;ada&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/java/com/gamersoci/user/gamersoci/adapter/AdapterFeed.java&#10;coment&#9;PSI&#9;JAVA://com.gamersoci.user.gamersoci.model.Comentario&#10;comenta&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/res/layout/activity_comentarios.xml&#10;filtro&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/res/layout/activity_filtro.xml&#10;fragment perfil&#9;PSI&#9;JAVA://com.gamersoci.user.gamersoci.R.layout#fragment_perfil&#10;bot&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/res/menu/menu_bottom_navigation.xml&#10;menu&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/res/menu/menu_bottom_navigation.xml&#10;toolb&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/res/layout/toolbar.xml&#10;login&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/res/layout/activity_login.xml&#10;fragment&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/res/layout/fragment_feed.xml&#10;visu&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/res/layout/activity_visualizar_postagem.xml&#10;visua&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/res/layout/activity_visualizar_postagem.xml&#10;adapter&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/res/layout/adapter_feed.xml&#10;pos&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/java/com/gamersoci/user/gamersoci/model/Postagem.java&#10;toolbar&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/res/layout/toolbar.xml&#10;background_de&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/res/drawable/background_degrade.xml&#10;usuario&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/java/com/gamersoci/user/gamersoci/model/Usuario.java&#10;comentarioac&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/java/com/gamersoci/user/gamersoci/activity/ComentariosActivity.java&#10;adaptercom&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/java/com/gamersoci/user/gamersoci/adapter/AdapterComentario.java&#10;pesquisau&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/res/layout/adapter_pesquisa_usuario.xml&#10;comentario&#9;PSI&#9;JAVA://com.gamersoci.user.gamersoci.activity.ComentariosActivity&#10;fragment_fee&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/res/layout/fragment_feed.xml&#10;visuali&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/res/layout/activity_visualizar_postagem.xml&#10;activityf&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/res/layout/activity_filtro.xml&#10;square&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/java/com/gamersoci/user/gamersoci/helper/SquareImageView.java&#10;grid_&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/res/layout/grid_postagem.xml&#10;mani&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/AndroidManifest.xml&#10;adapterpes&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/java/com/gamersoci/user/gamersoci/adapter/AdapterPesquisa.java&#10;perfilami&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/java/com/gamersoci/user/gamersoci/activity/PerfilAmigoActivity.java&#10;activityp&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/res/layout/activity_perfil_amigo.xml&#10;fragmentper&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/res/layout/fragment_perfil.xml&#10;frag&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/res/layout/fragment_perfil.xml&#10;filtroa&#9;PSI&#9;JAVA://com.gamersoci.user.gamersoci.activity.FiltroActivity&#10;ac&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/res/layout/activity_filtro.xml&#10;editar&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/java/com/gamersoci/user/gamersoci/activity/EditarPerfilActivity.java&#10;ed&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/java/com/gamersoci/user/gamersoci/activity/EditarPerfilActivity.java&#10;fragmentpos&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/res/layout/fragment_postagem.xml&#10;pesq&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/java/com/gamersoci/user/gamersoci/fragment/PesquisaFragment.java&#10;pesqui&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/java/com/gamersoci/user/gamersoci/fragment/PesquisaFragment.java&#10;fra&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/res/layout/fragment_perfil.xml&#10;perfilfra&#9;FILE&#9;file:///home/user/Documents/GamerSoci4/app/src/main/java/com/gamersoci/user/gamersoci/fragment/PerfilFragment.java" />
+    <property name="android.project.structure.last.selected" value="Project" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
-    <property name="device.picker.selection" value="Pixel_2_API_27" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Instagram" />
+    <property name="device.picker.selection" value="Nexus_5_API_26" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="not.eligible.for.single.variant.sync" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="VectorAssetImportPath" value="$PROJECT_DIR$/.." />
@@ -2216,7 +2354,7 @@
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
       <method>
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1574727828591" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1574804297580" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -2263,7 +2401,7 @@
         <option name="ADVANCED_PROFILING_ENABLED" value="false" />
       </Profilers>
       <method>
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1574727828591" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1574804297580" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -2295,27 +2433,6 @@
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <method />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
       <method />
     </configuration>
     <configuration default="true" type="JarApplication" factoryName="JAR Application">
@@ -2437,7 +2554,7 @@
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
       <method>
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1574727828592" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1574804297581" />
       </method>
     </configuration>
     <list size="2">
@@ -2492,31 +2609,30 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1024" height="732" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3284553" sideWeight="0.48773006" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.55609757" sideWeight="0.49182004" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.297561" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.055284552" sideWeight="0.50408995" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.297561" sideWeight="0.49182004" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3284553" sideWeight="0.49182004" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3284553" sideWeight="0.7198364" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.034146342" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.297561" sideWeight="0.50817996" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.024539877" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.06748466" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -2524,7 +2640,7 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -2568,13 +2684,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/helper/Permissao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="21" column="15" lean-forward="false" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/model/Usuario.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="760">
@@ -2667,13 +2776,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/activity/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="58" column="60" lean-forward="false" selection-start-line="58" selection-start-column="60" selection-end-line="58" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/activity/FiltroActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2973">
@@ -2702,13 +2804,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/model/UsuarioFirebase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/helper/Permissao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="67">
@@ -2727,13 +2822,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="423">
           <caret line="83" column="18" lean-forward="false" selection-start-line="83" selection-start-column="18" selection-end-line="83" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/activity/VisualizarPostagemActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="22" column="44" lean-forward="false" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
         </state>
       </provider>
     </entry>
@@ -2794,7 +2882,6 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="7" column="34" lean-forward="false" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2812,7 +2899,6 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2880,29 +2966,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/model/Postagem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="891">
-          <caret line="61" column="25" lean-forward="false" selection-start-line="61" selection-start-column="25" selection-end-line="61" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/fragment/PerfilFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2900">
-          <caret line="177" column="21" lean-forward="false" selection-start-line="177" selection-start-column="21" selection-end-line="177" selection-end-column="21" />
-          <folding>
-            <element signature="e#2985#3217#0" expanded="true" />
-            <element signature="e#3216#3217#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/activity/EditarPerfilActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-211">
           <caret line="42" column="40" lean-forward="false" selection-start-line="42" selection-start-column="40" selection-end-line="42" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2913,7 +2980,6 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2924,7 +2990,6 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2935,7 +3000,6 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="322">
           <caret line="54" column="35" lean-forward="false" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2946,7 +3010,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2954,36 +3017,76 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3320">
           <caret line="194" column="0" lean-forward="false" selection-start-line="194" selection-start-column="0" selection-end-line="194" selection-end-column="0" />
-          <folding>
-            <element signature="e#4316#6782#0" expanded="true" />
-            <element signature="e#6781#6782#0" expanded="true" />
-          </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/model/UsuarioFirebase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/fragment/PerfilFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2217">
+          <caret line="53" column="13" lean-forward="false" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/avatar.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/model/Feed.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        <state relative-caret-position="480">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/activity/VisualizarPostagemActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="59" column="14" lean-forward="true" selection-start-line="59" selection-start-column="14" selection-end-line="59" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/adapter/AdapterFeed.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="920">
-          <caret line="73" column="19" lean-forward="false" selection-start-line="73" selection-start-column="19" selection-end-line="73" selection-end-column="19" />
+        <state relative-caret-position="160">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           <folding>
-            <element signature="e#2471#2763#0" expanded="true" />
-            <element signature="e#2762#2763#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#5093#5094#0" expanded="false" />
+            <element signature="e#5132#5133#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/fragment/FeedFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="77" column="13" lean-forward="true" selection-start-line="77" selection-start-column="13" selection-end-line="77" selection-end-column="13" />
+        <state relative-caret-position="1180">
+          <caret line="79" column="21" lean-forward="false" selection-start-line="79" selection-start-column="21" selection-end-line="79" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/model/Postagem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1600">
+          <caret line="94" column="0" lean-forward="false" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/gamersoci/user/gamersoci/activity/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
           <folding />
         </state>
       </provider>
